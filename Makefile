@@ -47,4 +47,5 @@ $(TARGET):$(OBJS)
 
 clean:
 	rm -f *.o
+	rm -f operation
 	
